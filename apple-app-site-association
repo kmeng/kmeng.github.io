@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "CFU2M65D7S.com.kjmeng.JianDu",  // 格式：团队ID.正式BundleID
+                "paths": ["*"]  // 允许该域名下所有路径跳转
+            }
+        ]
+    }
+}
